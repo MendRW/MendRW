@@ -1,13 +1,21 @@
-- 👋 Hi, I’m @MendRW
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 Hi, I'm Rory.
 I'm looking for every opportunity to learn and build skills to accumulate experience in software development.
 My goal is to acquire the necessary skills to create, improve and deconstruct software.
-I am currently learning Python via Freecodecamp as a starting point. I then plan on moving to JS. 
+Currently familiar with python,html,css
+looking for project experience and real world job training
+interested in cybersecurity, currently playing greyhack
+
+Currently reading:
+Design patterns (GOF)
+hillside patterns
+https://git-scm.com/book/en/v2
+Numerical_recipes
+Automating boring stuff
+Tools and stratedgies for Delivering your software
+
+Data Algorithms are really cool, very interested in learning about algorithms such as wave function collapse!
+
 
 
 
