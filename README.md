@@ -1,23 +1,10 @@
+Hi I'm Rory
 
-Hi, I'm Rory.
-I'm looking for every opportunity to learn and build skills to accumulate experience in software development.
-My goal is to acquire the necessary skills to create, improve and deconstruct software.
-Currently familiar with python,html,css
-looking for project experience and real world job training
-interested in cybersecurity, currently playing greyhack
+Thank you for stopping by to read about me
+I mostly keep my repo up here for my own reflection rather then a representation of my best work.
 
-Currently reading:
-Design patterns (GOF)
-hillside patterns
-https://git-scm.com/book/en/v2
-Numerical_recipes
-Automating boring stuff
-Tools and stratedgies for Delivering your software
-
-Data Algorithms are really cool, very interested in learning about algorithms such as wave function collapse!
-
-
-
+I hope I can build some cool things and one day make a living from coding
+My interests are mostly in cybersecurity, game and web development.
 
 <!---
 MendRW/MendRW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
