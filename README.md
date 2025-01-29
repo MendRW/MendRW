@@ -5,7 +5,7 @@ I mostly keep my repo up here for my own reflection rather then a representation
 
 I hope I can build some cool things and one day make a living from coding
 My interests are mostly in cybersecurity, game and web development.
-
+Reach out to me on discord at @Mend.
 <!---
 MendRW/MendRW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
