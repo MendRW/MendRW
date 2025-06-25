@@ -1,11 +1,19 @@
-Hi I'm Rory
+Hi I'm Rory Wilcox
 
-Thank you for stopping by to read about me
-I mostly keep my repo up here for my own reflection rather then a representation of my best work.
+Reach out to me on discord at @Mend / Linkedin https://www.linkedin.com/in/rory-wilcox-526336197/
 
-I hope I can build some cool things and one day make a living from coding
-My interests are mostly in cybersecurity, game and web development.
-Reach out to me on discord at @Mend.
+Tech enthusiast and digtal solutions specialist.
+
+I partner with businesses to solve any digital problem they encounter.
+
+My primary technologies include
+React
+Javascript
+Python
+C#
+
+Experience with infosec analysis, threat prevention and audits.
+Boosting online visibility of businesses and customised solutions.
 <!---
 MendRW/MendRW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
